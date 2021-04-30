@@ -1,0 +1,1 @@
+console.log((e=>(e.sort(([a],[e])=>a-e),a=e[0],e.reduce((e,t)=>(t[0]>a[1]?a=t:(e-=a[1]-a[0],a=[a[0],Math.max(a[1],t[1])]),e+=a[1]-a[0],e),a[1]-a[0])))(require("fs").readFileSync("input.txt","utf-8").split("\n").map(a=>JSON.parse(a))))
