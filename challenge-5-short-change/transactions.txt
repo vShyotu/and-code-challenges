@@ -1,0 +1,14 @@
+Transaction: £7.11
+Cash Provided: £10
+ 
+Transaction: £5.52
+Cash Provided: £7
+ 
+Transaction: £15.23
+Cash Provided: £20
+ 
+Transaction: £0.50
+Cash Provided: £5
+ 
+Transaction: £8.85
+Cash Provided: £10
