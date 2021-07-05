@@ -1,0 +1,22 @@
+{
+  "name": "challenge-6-clock-wise",
+  "version": "1.0.0",
+  "description": "AND Coding Challenges number 6 - clock wise",
+  "main": "index.js",
+  "dependencies": {
+    "say": "^0.16.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "author": "Grant Hardman",
+  "license": "ISC"
+}
