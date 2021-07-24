@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2 {
+  margin: 10px 0;
+}
+
+code {
+  display: block;
+  white-space: pre-wrap;
+  background-color: #444;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #222;
+  color: white;
+}
